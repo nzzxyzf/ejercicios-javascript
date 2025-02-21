@@ -10,4 +10,4 @@ console.log( producto.trimEnd().trimEnd() );
 
 
 
-console.log( producto.trim() )
+console.log( producto)
